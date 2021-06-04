@@ -1,4 +1,4 @@
-# GaitEventsAlgorithms
+# Heatmaps for gait event detection
 In this repository the codes connected to Visscher et al "Impact of the marker set configuration on the accuracy of gait event detection in healthy and pathological subjects" are provided. 
 
 a_MAIN contains the script in which the gait events (initial contact - IC, and toe-off - TO) are estimated throught different kinematic functions (Ghoussayni et al., Zeni et al., Dessailly et al., Hsue et al. and Hreljac et al.) and force plate detection.
